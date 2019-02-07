@@ -13,3 +13,6 @@ q = 1
 w = 2
 e = q * w
 print (e)
+
+newby = 1
+print (newby)
