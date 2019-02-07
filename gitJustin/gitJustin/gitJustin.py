@@ -8,3 +8,8 @@ a = 1
 b = 2
 c = a * b
 print (c)
+
+q = 1
+w = 2
+e = q * w
+print (e)
